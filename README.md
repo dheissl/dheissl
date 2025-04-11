@@ -9,7 +9,7 @@ Full Stack Software Developer
 * ✉️  You can contact me at [heisslane@hotmail.com](mailto:heisslane@hotmail.com)
 * 🧠  I'm currently working on personal projects as I look for a job!
 
-  ## 💼 Current Projects
+## 💼 Current Projects
 - Adding to my portfolio site
 
 ## 🛠️ Tech Stack
@@ -20,7 +20,7 @@ Full Stack Software Developer
 - **Version Control:** Git, GitHub
 - **Tools:** Visual Studio Code, Postman
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/dheissl" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dylanheiss/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
